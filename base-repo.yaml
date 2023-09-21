@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/kossev-it/kalypso-control-plane
   branch: main
   path: .
-  commit: 369980a029816d88da9ae37f2a62e6c9a74d011b
+  commit: 84bfe7d436c91b69b9e23f31e5209d800a618ef7
